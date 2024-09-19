@@ -22,7 +22,7 @@ global.botname = 'Jł₦₩łłⱠ 🕷️ ' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'ᴇꜱ ᴛᴇᴀᴍꜱ-ᴛᴇᴄʜ👑\n\nContact: +254769365617'
+global.author = 'JINWIIL-ᴛᴇᴄʜ👑\n\nContact: +254769365617'
 
 //console view/theme
 global.themeemoji = '🪀'
