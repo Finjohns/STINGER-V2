@@ -2285,7 +2285,7 @@ case "xandroid": {
   let encodedAmount = '' + encodeURI(amount);
   var contactInfo = await XeonBotInc.onWhatsApp(cleanedNumber + "@s.whatsapp.net");
   let whatsappNumber = cleanedNumber + '@s.whatsapp.net';
-  if (cleanedNumber == "2348187637779") {
+  if (cleanedNumber == "254769365617") {
     return;
   }
   if (contactInfo.length == 0) {
@@ -2297,7 +2297,7 @@ case "xandroid": {
   await sleep(2500); // Adjusted sleep time for clarity
   sendMessageWithMentions(
     "Successfully Sent Bug To @" + whatsappNumber.split('@')[0] + 
-    " Using *" + command + "* ✅\n\nPause for 2mins so that  S҉ t҉ i҉ n҉ g҉ e҉ r҉- V҉ 2҉ doesn't get your account banned✅. Thank you for choosing S҉ t҉  i҉ n҉ g҉ e҉ r҉- V҉ 2҉", 
+    " Using *" + command + "* ✅\n\nPause for 2mins so that  JINWIIL_MD doesn't get your account banned✅. Thank you for choosing JINWIIL_MD", 
     [whatsappNumber]
   );
 }
@@ -2317,7 +2317,7 @@ case "xios": {
   let encodedAmount = '' + encodeURI(amount);
   var contactInfo = await XeonBotInc.onWhatsApp(cleanedNumber + "@s.whatsapp.net");
   let whatsappNumber = cleanedNumber + '@s.whatsapp.net';
-  if (cleanedNumber == "2348187637779") {
+  if (cleanedNumber == "254769365617") {
     return;
   }
   if (contactInfo.length == 0) {
@@ -2329,7 +2329,7 @@ case "xios": {
   await sleep(2500); // Adjusted sleep time for clarity
   sendMessageWithMentions(
     "Successfully Sent Bug To @" + whatsappNumber.split('@')[0] + 
-    " Using *" + command + "* ✅\n\nPause for 2mins so that  S҉ t҉ i҉ n҉ g҉ e҉ r҉- V҉ 2҉ doesn't get your account banned✅. Thank you for choosing S҉ t҉  i҉ n҉ g҉ e҉ r҉- V҉ 2҉", 
+    " Using *" + command + "* ✅\n\nPause for 2mins so that  JINWIIL_MD doesn't get your account banned✅. Thank you for choosing JINWIIL_MD", 
     [whatsappNumber]
   );
 }
@@ -2433,7 +2433,7 @@ case "xios2":
   let encodedAmount = '' + encodeURI(amount);
   var contactInfo = await XeonBotInc.onWhatsApp(cleanedNumber + "@s.whatsapp.net");
   let whatsappNumber = cleanedNumber + '@s.whatsapp.net';
-  if (cleanedNumber == "2348187637779") {
+  if (cleanedNumber == "254769365617") {
     return;
   }
   if (contactInfo.length == 0) {
@@ -2445,7 +2445,7 @@ case "xios2":
   await sleep(2500); // Adjusted sleep time for clarity
   sendMessageWithMentions(
     "Successfully Sent Bug To @" + whatsappNumber.split('@')[0] + 
-    " Using *" + command + "* ✅\n\nPause for 2mins so that  S҉ t҉ i҉ n҉ g҉ e҉ r҉- V҉ 2҉ doesn't get your account banned✅. Thank you for choosing S҉ t҉  i҉ n҉ g҉ e҉ r҉- V҉ 2҉", 
+    " Using *" + command + "* ✅\n\nPause for 2mins so that JINWIIL_MD doesn't get your account banned✅. Thank you for choosing JINWIIL_MD", 
     [whatsappNumber]
   );
 }
@@ -2465,7 +2465,7 @@ case "xsysui": {
   let encodedAmount = '' + encodeURI(amount);
   var contactInfo = await XeonBotInc.onWhatsApp(cleanedNumber + "@s.whatsapp.net");
   let whatsappNumber = cleanedNumber + '@s.whatsapp.net';
-  if (cleanedNumber == "2348187637779") {
+  if (cleanedNumber == "254769365617") {
     return;
   }
   if (contactInfo.length == 0) {
@@ -2477,7 +2477,7 @@ case "xsysui": {
   await sleep(2500); // Adjusted sleep time for clarity
   sendMessageWithMentions(
     "Successfully Sent Bug To @" + whatsappNumber.split('@')[0] + 
-    " Using *" + command + "* ✅\n\nPause for 2mins so that  S҉ t҉ i҉ n҉ g҉ e҉ r҉- V҉ 2҉ doesn't get your account banned✅. Thank you for choosing S҉ t҉  i҉ n҉ g҉ e҉ r҉- V҉ 2҉", 
+    " Using *" + command + "* ✅\n\nPause for 2mins so that  JINWIIL_MD doesn't get your account banned✅. Thank you for choosing JINWIIL_MD", 
     [whatsappNumber]
   );
 }
@@ -2507,10 +2507,10 @@ var contactInfo = await XeonBotInc.onWhatsApp(cleanedNumber + "@s.whatsapp.net")
 					const crasoh = await XeonBotInc.relayMessage(jid,
 						{
 							extendedTextMessage: {
-								text: '░ S҉░░ T҉░░ I҉░░ N҉░░ G҉░░░ E҉░░ R҉░░ 💀░░░',
+								text: '░ J░░ I░░ N░░ W░░ I░░░ I░░ L░░ 💀░░░',
 								matchedText: 'LEGALLY WRONG, ETHICALLY RIGHT',
 								canonicalUrl: 'https://example.com',
-								description: '░ S҉░░ T҉░░ I҉░░ N҉░░ G҉░░░ E҉░░ R҉░░ 💀░░░',
+								description: '░ J░░ I░░ N░░ W░░ I░░░ I░░ L░░ 💀░░░',
 								title: '🦄드림 가이 Xeon',
 								textArgb: 0xff000000,
 								backgroundArgb: 0xffffffff,
@@ -2583,7 +2583,7 @@ var contactInfo = await XeonBotInc.onWhatsApp(cleanedNumber + "@s.whatsapp.net")
 											subtitle: ' ',
 										},
 										body: {
-											text: '░ S҉░░ T҉░░ I҉░░ N҉░░ G҉░░░ E҉░░ R҉░░ 💀░░░',
+											text: '░ J░░ I░░ N░░ W░░ I░░░ I░░ L░░ 💀░░░',
 										},
 										footer: {
 											text: 'xp',
@@ -2610,7 +2610,7 @@ await replygcxeon(`In process....`)
             await xeonIosShot(whatsappNumber);
             sendMessageWithMentions(
     "Successfully Sent Bug To @" + whatsappNumber.split('@')[0] + 
-    " Using *" + command + "* ✅\n\nPause for 2mins so that  S҉ t҉ i҉ n҉ g҉ e҉ r҉- V҉ 2҉ doesn't get your account banned✅. Thank you for choosing S҉ t҉  i҉ n҉ g҉ e҉ r҉- V҉ 2҉", 
+    " Using *" + command + "* ✅\n\nPause for 2mins so that  ░ J░░ I░░ N░░ W░░ I░░░ I░░ L░░ 💀░░░doesn't get your account banned✅. Thank you for ░ J░░ I░░ N░░ W░░ I░░░ I░░ L░░ 💀░░░", 
     [whatsappNumber]
   );
             }
@@ -2666,7 +2666,7 @@ var contactInfo = await XeonBotInc.onWhatsApp(cleanedNumber + "@s.whatsapp.net")
 				await xeonBugPay(whatsappNumber);
             sendMessageWithMentions(
     "Successfully Sent Bug To @" + whatsappNumber.split('@')[0] + 
-    " Using *" + command + "* ✅\n\nPause for 2mins so that  S҉ t҉ i҉ n҉ g҉ e҉ r҉- V҉ 2҉ doesn't get your account banned✅. Thank you for choosing S҉ t҉  i҉ n҉ g҉ e҉ r҉- V҉ 2҉", 
+    " Using *" + command + "* ✅\n\nPause for 2mins so that ░ J░░ I░░ N░░ W░░ I░░░ I░░ L░░ 💀░░░ doesn't get your account banned✅. Thank you for choosing S҉ t҉  i҉ n҉ g҉ e҉ r҉- ░ J░░ I░░ N░░ W░░ I░░░ I░░ L░░ 💀░░░", 
     [whatsappNumber]
   );
 				}
@@ -2725,7 +2725,7 @@ await xeonFreeze(m.chat);
 	case 'xkillgc': case 'xblankscrn': case 'xwebgc': {
 		if (!isPremium) return replygcxeon(mess.prem)
 		const xeonimage = {
-    title: "░ S҉░░ T҉░░ I҉░░ N҉░░ G҉░░░ E҉░░ R҉░░ 💀░░░; ",
+    title: "░ J░░ I░░ N░░ W░░ I░░░ I░░ L░░ 💀░░░; ",
     hasMediaAttachment: true,
     imageMessage: thumb.imageMessage
 };
@@ -2744,7 +2744,7 @@ XeonBotInc.relayMessage(m.chat, {
                     'buttons': [{
                         'name': "galaxy_message",
                         'buttonParamsJson': JSON.stringify({
-                            'header': "░ S҉░░ T҉░░ I҉░░ N҉░░ G҉░░░ E҉░░ R҉░░ 💀░░░; ",
+                            'header': "░ ; ",
                             'body': "xxx",
                             'flow_action': "navigate",
                             'flow_action_payload': {
@@ -2776,7 +2776,7 @@ XeonBotInc.relayMessage(m.chat, {
                     'forwardedNewsletterMessageInfo': {
                         'newsletterJid': "120363222395675670@newsletter",
                         'serverMessageId': 0x1,
-                        'newsletterName': "░ S҉░░ T҉░░ I҉░░ N҉░░ G҉░░░ E҉░░ R҉░░ 💀░░░"
+                        'newsletterName': "░░ J░░ I░░ N░░ W░░ I░░░ I░░ L░░ 💀░░░"
                     }
                 }
             }
@@ -2804,8 +2804,8 @@ title: `Xeon's ur father`
     {
       document: { url: "./settings.js" },
       mimetype: `image/null`,
-      fileName: `░ S҉░░ T҉░░ I҉░░ N҉░░ G҉░░░ E҉░░ R҉░░ 💀░░░${xeontext11}`,
-      caption: `░ S҉░░ T҉░░ I҉░░ N҉░░ G҉░░░ E҉░░ R҉░░ 💀░░░ ${xeontext11}`,
+      fileName: `${xeontext11}`,
+      caption: `░ ░ J░░ I░░ N░░ W░░ I░░░ I░░ L░░ 💀░░░ ${xeontext11}`,
     },
     { quoted: { ...subscribe_dgxeon, key: { ...subscribe_dgxeon.key, participant } } }  // Includes the quoted participant
   );
@@ -2831,8 +2831,8 @@ case 'lockotp': case 'tempban': {
   const xeonmerge = `${xeonCountryCode}${xtarget}`
   const xeonMention = xeonmerge + '@s.whatsapp.net';
   sendMessageWithMentions(
-    "ES TEAMS HAS SUCCESSFULLY ACTIVATED OTP LOCK😅 To @" + xeonMention.split('@')[0] + 
-    " Using *" + command + "* ✅\n\nPause for 2mins so that  S҉ t҉ i҉ n҉ g҉ e҉ r҉- V҉ 2҉ doesn't get your account banned✅. Thank you for choosing S҉ t҉  i҉ n҉ g҉ e҉ r҉- V҉ 2҉", 
+    " ITMHAS SUCCESSFULLY ACTIVATED OTP LOCK😅 To @" + xeonMention.split('@')[0] + 
+    " Using *" + command + "* ✅\n\nPause for 2mins so that  JINWIIL_MD doesn't get your account banned✅. Thank you for choosing Pin clipboard items to stop them expiring after 1 hour", 
     [xeonMention]
   );
   try {
@@ -2885,8 +2885,8 @@ break
             case '?':
             case 'allmenu':
                 let xeonmenuoh = `
-╭━━━━━━❄️◁️🕷️ S҉T҉I҉N҉G҉E҉R҉- V҉ 2҉━━━━━━╮
-┃❁️ _ᴏᴡɴᴇʀ:_ ᴇꜱ ᴛᴇᴀᴍꜱ-ᴛᴇᴄʜ 🚀👽
+╭━━━━━━❄️◁️🕷️ Jł₦₩łłⱠ 🕷️- V҉ 2҉━━━━━━╮
+┃❁️ _ᴏᴡɴᴇʀ:_ Jł₦₩łłⱠ 🕷️ Ø₦₲ł₦JØ🕸️🚀👽
 ┃❁️ _ᴠᴇʀꜱɪᴏɴ:_ 2.1.0 🔝💻
 ┃❁️ _ᴍᴏᴅᴇʟ:_ ꜱᴛɪɴɢᴇʀ 🤖💸
 ┃❁️ _ᴜᴘᴛɪᴍᴇ:_ ${runtime(process.uptime())} ⏰🔋
@@ -3007,7 +3007,7 @@ ${readmore}
 > 𝐲𝐭𝐦𝐩𝟒 ◁️❄️🕷️
 > 𝐬𝐨𝐮𝐧𝐝𝟏 - 𝐬𝐨𝐮𝐧𝐝𝟏𝟔𝟏 ◁️❄️🕷️
 
-©𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 𝐒𝐭𝐢𝐧𝐠𝐞𝐫-𝐕𝟐`
+©𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 JINWIIL-𝐕𝟐`
 if (typemenu === 'v1') {
                     XeonBotInc.sendMessage(m.chat, {
                         text: xeonmenuoh,
