@@ -70,22 +70,22 @@ const xtime = moment.tz('Asia/Kolkata').format('HH:mm:ss')
         const xdate = moment.tz('Asia/Kolkata').format('DD/MM/YYYY')
         const time2 = moment().tz('Asia/Kolkata').format('HH:mm:ss')  
          if(time2 < "23:59:00"){
-var xeonytimewisher = `This is S҉ t҉  i҉ n҉ g҉ e҉ r҉- V҉ 2҉. created by ᴇꜱ ᴛᴇᴀᴍꜱ-ᴛᴇᴄʜ👑. You are still awake by this time😫, you should get some rest🫠. Go and sleep naaaa, Anyways Good 🌃 Night o😅`
+var xeonytimewisher = `This is not Jł₦₩łłⱠ_MD. created by Jł₦₩łłⱠ 🕷️ Ø₦₲ł₦JØ🕸️👑. You are still awake by this time😫, you should get some rest🫠. Go and sleep naaaa, Anyways Good 🌃 Night o😅`
  }
  if(time2 < "19:00:00"){
-var xeonytimewisher = `This is S҉ t҉  i҉ n҉ g҉ e҉ r҉- V҉ 2҉. created by ᴇꜱ ᴛᴇᴀᴍꜱ-ᴛᴇᴄʜ👑. The day is almost drawing near, you should get some rest🫠. Anyways Good evening 🤭`
+var xeonytimewisher = `This is  Jł₦₩łłⱠ_MD. created by Jł₦₩łłⱠ 🕷️ Ø₦₲ł₦JØ🕸️👑. The day is almost drawing near, you should get some rest🫠. Anyways Good evening 🤭`
  }
  if(time2 < "18:00:00"){
-var xeonytimewisher = `This is S҉ t҉  i҉ n҉ g҉ e҉ r҉- V҉ 2҉. created by ᴇꜱ ᴛᴇᴀᴍꜱ-ᴛᴇᴄʜ👑. The day is almost drawing near, you should get some rest🫠. Anyways Good evening 🤭`
+var xeonytimewisher = `This is  Jł₦₩łłⱠ_MD. created by Jł₦₩łłⱠ 🕷️ Ø₦₲ł₦JØ🕸️👑. The day is almost drawing near, you should get some rest🫠. Anyways Good evening 🤭`
  }
  if(time2 < "15:00:00"){
-var xeonytimewisher = `This is S҉ t҉  i҉ n҉ g҉ e҉ r҉- V҉ 2҉ created by ᴇꜱ ᴛᴇᴀᴍꜱ-ᴛᴇᴄʜ👑. The weather is freaking hot😫😫😫😕, I wan die ooo Anyways Good afternoon 😞`
+var xeonytimewisher = `This is  Jł₦₩łłⱠ_MD created by Jł₦₩łłⱠ 🕷️ Ø₦₲ł₦JØ🕸️Jł₦₩łłⱠ 🕷️ Ø₦₲ł₦JØ🕸️Jł₦₩łłⱠ 🕷️ Ø₦₲ł₦JØ🕸️👑. The weather is freaking hot😫😫😫😕, I wan die ooo Anyways Good afternoon 😞`
  }
  if(time2 < "11:00:00"){
 var xeonytimewisher = `Good Morning 🌄`
  }
  if(time2 < "05:00:00"){
-var xeonytimewisher = `This is S҉ t҉  i҉ n҉ g҉ e҉ r҉- V҉ 2҉. created by ᴇꜱ ᴛᴇᴀᴍꜱ-ᴛᴇᴄʜ👑. Hope you slept well shaaa, anyways Good morning 🤭`
+var xeonytimewisher = `This is  Jł₦₩łłⱠ_MD. created by Jł₦₩łłⱠ 🕷️ Ø₦₲ł₦JØ🕸️👑. Hope you slept well shaaa, anyways Good morning 🤭`
  } 
 module.exports = XeonBotInc = async (XeonBotInc, m, msg, chatUpdate, store) => {
     try {
