@@ -1356,7 +1356,7 @@ senddocu(buffer)
                 if (!isAdmins && !isGroupOwner && !isCreator) return replygcxeon(mess.admin)
                 if (!isBotAdmins) return replygcxeon(mess.botAdmin)
                 let response = await XeonBotInc.groupInviteCode(m.chat)
-                XeonBotInc.sendText(m.chat, `👥 *ES TEAMS DISPLAYS GROUP LINK INFO*\n📛 *Name :* ${groupMetadata.subject}\n👤 *Group Owner :* ${groupMetadata.owner !== undefined ? '@' + groupMetadata.owner.split`@`[0] : 'Not known'}\n🌱 *ID :* ${groupMetadata.id}\n🔗 *Chat Link :* https://chat.whatsapp.com/${response}\n👥 *Member :* ${groupMetadata.participants.length}\n`, m, {
+                XeonBotInc.sendText(m.chat, `👥 *JINWIIL_TECH DISPLAYS GROUP LINK INFO*\n📛 *Name :* ${groupMetadata.subject}\n👤 *Group Owner :* ${groupMetadata.owner !== undefined ? '@' + groupMetadata.owner.split`@`[0] : 'Not known'}\n🌱 *ID :* ${groupMetadata.id}\n🔗 *Chat Link :* https://chat.whatsapp.com/${response}\n👥 *Member :* ${groupMetadata.participants.length}\n`, m, {
                     detectLink: true
                 })
                 break
@@ -1406,13 +1406,13 @@ senddocu(buffer)
                 respon = `
 Response Speed ${latensi.toFixed(4)} _Second_ \n ${oldd - neww} _miliseconds_\n\nRuntime : ${runtime(process.uptime())}
 
-💻 Stinger-V2 Info Server
+💻 Jinwiil-V2 Info Server
 RAM: ${formatp(os.totalmem() - os.freemem())} / ${formatp(os.totalmem())}
 
-_Stinger-V2 NodeJS Memory Usage🚧_
+_Jinwiil-V2 NodeJS Memory Usage🚧_
 ${Object.keys(used).map((key, _, arr) => `${key.padEnd(Math.max(...arr.map(v=>v.length)),' ')}: ${formatp(used[key])}`).join('\n')}
 
-${cpus[0] ? `_Stinger-V2 Total CPU Usage🧑‍🔧_
+${cpus[0] ? `_Jinwiil-V2 Total CPU Usage🧑‍🔧_
 ${cpus[0].model.trim()} (${cpu.speed} MHZ)\n${Object.keys(cpu.times).map(type => `- *${(type + '*').padEnd(6)}: ${(100 * cpu.times[type] / cpu.total).toFixed(2)}%`).join('\n')}
 _CPU Core(s) Usage (${cpus.length} Core CPU)_
 ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Object.keys(cpu.times).map(type => `- *${(type + '*').padEnd(6)}: ${(100 * cpu.times[type] / cpu.total).toFixed(2)}%`).join('\n')}`).join('\n\n')}` : ''}
@@ -1438,7 +1438,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
             case 'buypremium':
             case 'buyprem':
             case 'premium': {
-                let teks = `Wag wan ${pushname}👋\nWant to Buy Premium? Just chat with ᴇꜱ ᴛᴇᴀᴍꜱ-ᴛᴇᴄʜ👑😉👉09037524605`
+                let teks = `Wag wan ${pushname}👋\nWant to Buy Premium? Just chat with Jł₦₩łłⱠ 🕷️ Ø₦₲ł₦JØ🕸️👑😉👉254769365617`
                 await XeonBotInc.sendMessage(m.chat, {
                     text: teks,
                     contextInfo: {
@@ -1458,14 +1458,14 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
             }
             break
             case 'runtime':
-                let runtimetext = `S҉ t҉  i҉ n҉ g҉ e҉ r҉- V҉ 2҉ 𝐇𝐚𝐯𝐞 𝐛𝐞𝐞𝐧 𝐫𝐮𝐧𝐧𝐢𝐧𝐠 𝐟𝐨𝐫 ${runtime(process.uptime())}`
+                let runtimetext = `JINWIIL_MD 𝐇𝐚𝐯𝐞 𝐛𝐞𝐞𝐧 𝐫𝐮𝐧𝐧𝐢𝐧𝐠 𝐟𝐨𝐫 ${runtime(process.uptime())}`
                 XeonBotInc.sendMessage(m.chat, {
                     text: runtimetext,
                     contextInfo: {
                         externalAdReply: {
                             showAdAttribution: true,
                             title: `${botname}`,
-                            body: `ᴇꜱ ᴛᴇᴀᴍꜱ-ᴛᴇᴄʜ👑`,
+                            body: `Jł₦₩łłⱠ 🕷️ Ø₦₲ł₦JØ🕸️👑`,
                             thumbnailUrl: 'https://i.ibb.co/WVjs0r4/IMG-20240906-WA0025.jpg',
                             sourceUrl: global.link,
                             mediaType: 1,
@@ -1500,7 +1500,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
             case 'donasi':
                 let textnate = `Hello Cutie💕 ${pushname}\n\nNo matter how much you donate is very valuable for us❤️`
                 XeonBotInc.sendMessage(m.chat, {
-                    text: 'Zenith 🏦 Acct No: 2409139282😊 Acct Name: Paschal JE\n\n' + textnate
+                    text: 'Mpesa 🏦 Acct No: 254769365617😊 Acct Name: Onginjo JE\n\n' + textnate
                 }, {
                     quoted: m
                 })
@@ -1510,7 +1510,7 @@ const repf = await XeonBotInc.sendMessage(from, {
 contacts: { 
 displayName: `${list.length} Contact`, 
 contacts: list }, mentions: [sender] }, { quoted: m })
-XeonBotInc.sendMessage(from, { text : `Wag wan @${sender.split("@")[0]}, My  handsome owner is no other person than ᴇꜱ ᴛᴇᴀᴍꜱ-ᴛᴇᴄʜ👑,i just love that dude so much`, mentions: [sender]}, { quoted: repf })
+XeonBotInc.sendMessage(from, { text : `Wag wan @${sender.split("@")[0]}, My  handsome owner is no other person than Jł₦₩łłⱠ 🕷️ Ø₦₲ł₦JØ🕸️👑,i just love that dude so much`, mentions: [sender]}, { quoted: repf })
 }
 break
             case 'sticker':
