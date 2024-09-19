@@ -689,7 +689,7 @@ var xeonlod = [
 "《 ███████▒▒▒▒▒》50%",
 "《 ██████████▒▒》80%",
 "《 ████████████》100%",
-"𝚂𝚃𝙸𝙽𝙶𝙴𝚁-𝚅𝟸 𝙻𝙾𝙰𝙳𝙸𝙽𝙶 𝙲𝙾𝙼𝙿𝙻𝙴𝚃𝙴𝙳 🦄..."
+"JINWIIL-𝚅𝟸 𝙻𝙾𝙰𝙳𝙸𝙽𝙶 𝙲𝙾𝙼𝙿𝙻𝙴𝚃𝙴𝙳 🦄..."
 ]
 let { key } = await XeonBotInc.sendMessage(from, {text: 'ʟᴏᴀᴅɪɴɢ...'})
 
@@ -1116,7 +1116,7 @@ senddocu(buffer)
                                 showAdAttribution: true,
                                 title: 'Broadcast By Owner',
                                 body: `Sent ${i.length} Group`,
-                                thumbnailUrl: 'https://telegra.ph/file/c02035e9c30f7b6da1b29.jpg',
+                                thumbnailUrl: '',
                                 sourceUrl: global.link,
                                 mediaType: 1,
                                 renderLargerThumbnail: true
