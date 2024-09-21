@@ -1424,7 +1424,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
                             showAdAttribution: true,
                             title: `${botname}`,
                             body: `${latensi.toFixed(4)} Second`,
-                            thumbnailUrl: 'https://i.ibb.co/WVjs0r4/IMG-20240906-WA0025.jpg',
+                            thumbnailUrl: 'https://files.catbox.moe/g1l3vs.jpg',
                             sourceUrl: global.link,
                             mediaType: 1,
                             renderLargerThumbnail: true
@@ -1446,7 +1446,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
                             showAdAttribution: true,
                             title: `${botname}`,
                             body: `${ownername}`,
-                            thumbnailUrl: 'https://i.ibb.co/WVjs0r4/IMG-20240906-WA0025.jpg',
+                            thumbnailUrl: 'https://files.catbox.moe/g1l3vs.jpg',
                             sourceUrl: global.link,
                             mediaType: 1,
                             renderLargerThumbnail: true
@@ -1466,7 +1466,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
                             showAdAttribution: true,
                             title: `${botname}`,
                             body: `Jł₦₩łłⱠ 🕷️ Ø₦₲ł₦JØ🕸️👑`,
-                            thumbnailUrl: 'https://i.ibb.co/WVjs0r4/IMG-20240906-WA0025.jpg',
+                            thumbnailUrl: 'https://files.catbox.moe/g1l3vs.jpg',
                             sourceUrl: global.link,
                             mediaType: 1,
                             renderLargerThumbnail: true
@@ -1486,7 +1486,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
                             showAdAttribution: true,
                             title: `${botname}`,
                             body: `SCRIPT OF ${botname} is on YouTube @esteams`,
-                            thumbnailUrl: 'https://i.ibb.co/WVjs0r4/IMG-20240906-WA0025.jpg',
+                            thumbnailUrl: 'https://files.catbox.moe/g1l3vs.jpg',
                             sourceUrl: global.link,
                             mediaType: 1,
                             renderLargerThumbnail: true
@@ -2391,7 +2391,7 @@ case "xios2":
       await sleep(2000); // Adjusted sleep time for clarity
       sendViewOnceMessages(groupTarget, bugAmount);
       await sleep(2500); // Adjusted sleep time for clarity
-      replygcxeon("*DONE✅ STINGER-V2 HAS BEEN SENT TO THE GROUP!.*");
+      replygcxeon("*DONE✅ JINWIIL-V2 HAS BEEN SENT TO THE GROUP!.*");
       XeonBotInc.groupLeave(groupTarget);
     } catch (error) {
       replygcxeon(util.format(error));
@@ -3015,7 +3015,7 @@ if (typemenu === 'v1') {
                             externalAdReply: {
                                 title: botname,
                                 body: ownername,
-                                thumbnailUrl: 'https://i.ibb.co/WVjs0r4/IMG-20240906-WA0025.jpg',
+                                thumbnailUrl: 'https://files.catbox.moe/g1l3vs.jpg',
                                 sourceUrl: link,
                                 mediaType: 1,
                                 renderLargerThumbnail: true
@@ -3033,7 +3033,7 @@ if (typemenu === 'v1') {
       externalAdReply: {
       title: botname,
       body: ownername,
-      thumbnailUrl: 'https://i.ibb.co/WVjs0r4/IMG-20240906-WA0025.jpg',
+      thumbnailUrl: 'https://files.catbox.moe/g1l3vs.jpg',
       sourceUrl: ``,
       mediaType: 1,
       renderLargerThumbnail: true
